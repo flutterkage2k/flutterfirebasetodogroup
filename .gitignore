@@ -10,6 +10,8 @@
 .history
 .svn/
 
+
+
 # IntelliJ related
 *.iml
 *.ipr
@@ -40,6 +42,7 @@
 /packages/flutter/coverage/
 version
 analysis_benchmark.json
+firebase_options.dart
 
 # packages file containing multi-root paths
 .packages.generated
